@@ -30,7 +30,7 @@ The project requires the student to pick a dataset to be explored. It is necessa
 
 ### Results - Blog Post<a name="results"></a>
 
-The written result of data can be found [here]. 
+The written result of data can be found [here](https://medium.com/@prabowoas1002/grabbing-opportunities-with-nyc-airbnb-data-2019-ce02fc857ecc). 
 
 ### Licensing and Acknowledgements<a name="licensing"></a>
 
