@@ -25,7 +25,7 @@ The project requires the student to pick a dataset to be explored. It is necessa
 ### Files<a name="files"></a>
 
 - The airbnb_nyc.csv contains the NYC's Airbnb dataset. 
-- The figures folder contains airbnb_locs.png, heatmap_features.png, and nyc_map.png which are relevant to this project
+- The figures folder contains relevant .png files for this project.
 - The airbnb_nyc.ipynb contains the analysis for this dataset.
 
 ### Results - Blog Post<a name="results"></a>
